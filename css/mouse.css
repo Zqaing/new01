@@ -1,0 +1,82 @@
+/* 鼠标样式 */
+/* 网站导航,登录,注册 */
+.site-topbar a:hover{
+    color:#fff;
+}
+.site-topbar .right .right-1:hover{
+    color:#ff6700;
+    background: #fff;
+}
+/* 网站头部导航 */
+.site-header .nav li:hover a{
+    color:#ff6700;
+}
+.site-header form .search-hot-word span:hover{
+    color:#fff;
+    background: #ff6700;
+}
+.site-header form .search-submit:hover{
+    color:#fff;
+    background: #ff6700;
+}
+.site-header form .keywordList ul li:hover{
+    background: #f9f9f9;
+}
+/*轮播图左右按钮*/
+.home-hero-slider .Broadcast .left:hover,.home-hero-slider .Broadcast .right:hover{
+	color:#fff;
+	background: rgba(0,0,0,0.5);
+}
+/*轮播图左侧导航*/
+.home-hero-slider .home-wrap .home li:hover{
+	background: #ff6700;
+}
+.home-hero-slider .home-wrap .home-select > li a:hover span{
+	color:#ff6700;
+}
+/*手机top*/
+.container .top .right-box:hover{
+    color:#ff6700;
+}
+.container .top .right-box:hover i{
+    background:#ff6700;
+}
+.li-shadow:hover{
+    transform: translateY(-4px);
+    box-shadow: 10px 12px 30px -8px rgba(0,0,0,0.3);
+}
+
+/*家电下部*/
+.container .box ul li:hover .slide{
+	transform: translateY(-100%);
+	opacity: 1;
+}
+/*内容*/
+.content .point li:hover{
+	background-color:#ff6700;
+}
+/*video*/
+.video-wrap i:hover{
+	color:#ff6700;
+	border-color:#ff6700;
+}
+/*footer*/
+footer .footer-service a:hover{
+	color:#ff6700;
+}
+footer .footer-link a:hover{
+	color:#ff6700;
+}
+footer .site-info .info a:hover{
+	color:#ff6700;
+}
+/*侧边栏*/
+footer .sidebar li:hover span{
+	color:#ff6700;
+}
+footer .sidebar li:hover img:first-child{
+	display: block;
+}
+footer .sidebar li:hover img:last-child{
+	display: none;
+}
